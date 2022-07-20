@@ -1,7 +1,7 @@
 {
 	"name": "naughtylittlegays.github.io",
 	"version": "0.1.0",
-	"homepage": "https://naughtylittlegays.github.io/",
+	"homepage": "https://naughtylittlegays.nekonyan.fun/",
 	"private": true,
 	"dependencies": {
 		"@heroicons/react": "^1.0.6",
@@ -43,3 +43,4 @@
 		"gh-pages": "^4.0.0"
 	}
 }
+
