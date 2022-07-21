@@ -35,6 +35,7 @@ export const projects = [
 
 export const skills = [
 	{
+		key: "HTML",
 		title: "HTML",
 		subtitle: "h",
 		description:
@@ -43,6 +44,7 @@ export const skills = [
 		link: "https://google.com"
 	},
 	{
+		key: "CSS",
 		title: "CSS",
 		subtitle: "c",
 		description:
@@ -51,6 +53,7 @@ export const skills = [
 		link: "https://nhentai.net"
 	},
 	{
+		key: "JavaScript",
 		title: "JavaScript",
 		subtitle: "j",
 		description:
@@ -59,6 +62,7 @@ export const skills = [
 		link: "https://hanime.tv"
 	},
 	{
+		key: "React",
 		title: "React",
 		subtitle: "r",
 		description:
@@ -67,6 +71,7 @@ export const skills = [
 		link: "https://pornhub.com"
 	},
 	{
+		key: "Python",
 		title: "Python",
 		subtitle: "p",
 		description:
@@ -82,20 +87,26 @@ export const testimonials = [
 		title: "CEO",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./testimonial-1.gif"
+		image: "./testimonial-1.gif",
+		company: "Company Name",
+		quote: "I love hentai!"
 	},
 	{
 		name: "Jane Doe",
 		title: "CTO",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./testimonial-2.gif"
+		image: "./testimonial-2.gif",
+		company: "Google",
+		quote: "I am definitely not gay."
 	},
 	{
 		name: "Joe Doe",
 		title: "COO",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./testimonial-3.gif"
+		image: "./testimonial-3.gif",
+		company: "NaughtyLittleGays",
+		quote: "what"
 	}
 ];
