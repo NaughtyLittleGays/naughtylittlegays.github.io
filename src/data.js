@@ -1,34 +1,26 @@
 export const projects = [
 	{
-		title: "Hello World",
+		title: "Hello world",
 		subtitle: "HTML",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./project-1.gif",
+			"This is just our first hello world page",
+		image: "https://media.tenor.com/yheo1GGu3FwAAAAC/rick-roll-rick-ashley.gif",
 		link: "https://naughtylittlegays.nekonyan.fun/hello-world/"
 	},
 	{
-		title: "React Tracks",
+		title: "Whiz Quiz",
 		subtitle: "React and Python",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./project-2.gif",
-		link: "https://w3schools.com"
+			"Create your own interesting quizzes, and share 'em with your friends",
+		image: "https://media.tenor.com/yheo1GGu3FwAAAAC/rick-roll-rick-ashley.gif",
+		link: "https://example.com"
 	},
 	{
-		title: "PogChat",
-		subtitle: "React and Firebase",
+		title: "Matchmaker",
+		subtitle: "Python Flask",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./project-3.gif",
-		link: "https://pog-blog.herokuapp.com/"
-	},
-	{
-		title: "Epic Todo App",
-		subtitle: "React Hooks",
-		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-		image: "./project-4.gif",
+			"A simple matchmaker app written in Python's Flask framework",
+		image: "https://media.tenor.com/yheo1GGu3FwAAAAC/rick-roll-rick-ashley.gif",
 		link: "https://stackoverflow.com"
 	}
 ];
@@ -37,25 +29,22 @@ export const skills = [
 	{
 		key: "HTML",
 		title: "HTML",
-		subtitle: "h",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"HTML is a language that we've used to develop some of our website structures. The HTML is embedded within the JavaScript files in our React.js framework.",
 		image: "./skill-1.gif",
 		link: "https://google.com"
 	},
 	{
 		key: "CSS",
 		title: "CSS",
-		subtitle: "c",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"CSS is a language that we've used to create the styles for",
 		image: "./skill-2.gif",
 		link: "https://nhentai.net"
 	},
 	{
 		key: "JavaScript",
 		title: "JavaScript",
-		subtitle: "j",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
 		image: "./skill-3.gif",
@@ -64,7 +53,6 @@ export const skills = [
 	{
 		key: "React",
 		title: "React",
-		subtitle: "r",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
 		image: "./skill-4.gif",
@@ -73,7 +61,6 @@ export const skills = [
 	{
 		key: "Python",
 		title: "Python",
-		subtitle: "p",
 		description:
 			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
 		image: "./skill-5.gif",
