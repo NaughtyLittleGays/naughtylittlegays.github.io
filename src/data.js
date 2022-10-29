@@ -38,7 +38,7 @@ export const skills = [
 		key: "CSS",
 		title: "CSS",
 		description:
-			"CSS is a language that we've used to create the styles for",
+			"CSS is a language that we've used to create the styles, formatting and animations for our webpages.",
 		image: "./skill-2.gif",
 		link: "https://nhentai.net"
 	},
@@ -46,7 +46,7 @@ export const skills = [
 		key: "JavaScript",
 		title: "JavaScript",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"JavaScript is the main language for developing our website. All the data and components have been written in JavaScript files, which contain embedded HTML code.",
 		image: "./skill-3.gif",
 		link: "https://hanime.tv"
 	},
@@ -54,7 +54,7 @@ export const skills = [
 		key: "React",
 		title: "React",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"React.js is a JavaScript framework that we're mainly using to develop our webpages.",
 		image: "./skill-4.gif",
 		link: "https://pornhub.com"
 	},
@@ -62,7 +62,7 @@ export const skills = [
 		key: "Python",
 		title: "Python",
 		description:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+			"Python is a language that we're using for writing the base of our applications. We combine it with HTML, CSS and JavaScript to allow it to run on a website.",
 		image: "./skill-5.gif",
 		link: "https://xnxx.com"
 	}
@@ -97,3 +97,24 @@ export const testimonials = [
 		quote: "what"
 	}
 ];
+
+export const developers = [
+	{
+		name: "Swan Tayza Aung",
+		discord: "Yoinkman#1387",
+		phone: "+959263609160",
+		role: "idk what role to put here yet"
+	},
+	{
+		name: "Nyan Lin Htut @ Quincy",
+		discord: "QuincyNyan#6822",
+		phone: "<nyan's phone here>",
+		role: "idk what role to put here yet"
+	},
+	{
+		name: "Amara Zin",
+		discord: "Amaraa#7857",
+		phone: "<amara's phone here>",
+		role: "idk what role to put here yet"
+	}
+]
